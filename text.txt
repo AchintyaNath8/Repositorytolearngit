@@ -1,5 +1,1 @@
-Hi i acompletely modified so as to check what git hub actually does
-
-
-I have added one line
-Changed after direct commit
+Hi This is th einitial commit.
